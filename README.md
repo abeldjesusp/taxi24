@@ -73,8 +73,8 @@ npx ts-node prisma/seed.ts
 npm run start:dev
 ```
 
-API corriendo en: `http://localhost:3000`
-Swagger Docs en: `http://localhost:3000/api`
+- API corriendo en: `http://localhost:3000`
+- Swagger Docs en: `http://localhost:3000/api`
 
 ---
 
